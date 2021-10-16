@@ -1,2 +1,2 @@
-#SunSeaSteamer
+#SunSeaSteamer<br>
 Небольшая GIF анимация
